@@ -25,7 +25,6 @@ This project aims to create a system that verifies the authenticity of job posti
 - **Scikit-learn**: Machine learning algorithms and model evaluation.
 - **Seaborn & Matplotlib**: Data visualization.
 - **NLTK**: Natural Language Processing (NLP) for text processing.
-- **TensorFlow**: (Optional) For deep learning models if required.
 
 ### Key Columns:
 - `title`: Job title.
